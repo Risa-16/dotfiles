@@ -24,4 +24,8 @@ Major inspiration:  [Nebula (formerly Genome) by Barbaross93](https://github.com
 
 ![alt text](https://github.com/Risa-16/dotfiles/blob/main/Scrots/scrots2.png "Screenshots")
 
+![alt text](https://github.com/Risa-16/dotfiles/blob/main/Scrots/scrots4.png "Screenshots")
+
 ![alt text](https://github.com/Risa-16/dotfiles/blob/main/Scrots/scrots3.png "Screenshots")
+
+
